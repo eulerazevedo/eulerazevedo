@@ -32,7 +32,7 @@ Engenheiro de Computação com 10+ anos de experiência em infraestrutura cloud,
     </td>
     <td width="50%">
       <h3>🤖 Archimbus</h3>
-      <p>Assistente de arquitetura cloud com IA. Gera diagramas, Terraform e documentação técnica a partir de uma descrição em linguagem natural. Suporte a Groq (Llama 3.3 70B), Gemini e Ollama local.</p>
+      <p>Assistente de arquitetura cloud com IA. Gera diagramas, Terraform e documentação técnica a partir de uma descrição em linguagem natural. Suporte a Groq (Llama 3.3 70B) e Gemini.</p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
