@@ -76,8 +76,8 @@ Engenheiro de Computação com 10+ anos de experiência em infraestrutura cloud,
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=euller-azevedo&show_icons=true&theme=dark&bg_color=0D1117&title_color=4F98A3&icon_color=4F98A3&text_color=E6EDF3&border_color=30363D&hide_border=false&cache_seconds=1800" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=euller-azevedo&layout=compact&theme=dark&bg_color=0D1117&title_color=4F98A3&text_color=E6EDF3&border_color=30363D&hide_border=false&cache_seconds=1800" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=eulerazevedo&theme=dark&background=0D1117&border=30363D&stroke=30363D&ring=4F98A3&fire=4F98A3&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=4F98A3&sideLabels=8B949E&dates=8B949E" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eulerazevedo&layout=compact&theme=dark&bg_color=0D1117&title_color=4F98A3&text_color=E6EDF3&border_color=30363D&langs_count=6" />
 </p>
 
 ---
