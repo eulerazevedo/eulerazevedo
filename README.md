@@ -10,8 +10,7 @@ Engenheiro de Computação com 10+ anos de experiência em infraestrutura cloud,
 🌎 Baseado em Manaus/AM, Brasil — mas minhas arquiteturas rodam no mundo todo  
 ☁️ Especialista em AWS, Cloud Infrastructure, DevOps e automação  
 🤖 Explorando IA, LLMs e integração de inteligência artificial em workflows de engenharia  
-🚀 Criador do [Archimbus](https://archimbus-web.vercel.app) — assistente de arquitetura cloud com IA (Groq · Gemini)  
-⚡ Criador do [PriceStorm](https://pricestorm.vercel.app) — comparador de preços AWS, Azure e GCP em tempo real
+🚀 Criador do [Archimbus](https://archimbus-web.vercel.app) — assistente de arquitetura cloud com IA (Groq · Gemini) 
 
 ---
 
