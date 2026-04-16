@@ -19,17 +19,6 @@ Engenheiro de Computação com 10+ anos de experiência em infraestrutura cloud,
 <table>
   <tr>
     <td width="50%">
-      <h3>⚡ PriceStorm</h3>
-      <p>Comparador de preços multi-cloud em tempo real. Compare AWS, Azure e GCP em 15 regiões simultaneamente e descubra a configuração mais econômica para sua infraestrutura.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-      </p>
-      <a href="https://pricestorm.vercel.app">🔗 Demo ao vivo</a> · <a href="https://github.com/eulerazevedo/pricestorm">📂 Repositório</a>
-    </td>
-    <td width="50%">
       <h3>🤖 Archimbus</h3>
       <p>Assistente de arquitetura cloud com IA. Gera diagramas, Terraform e documentação técnica a partir de uma descrição em linguagem natural. Suporte a Groq (Llama 3.3 70B) e Gemini.</p>
       <p>
