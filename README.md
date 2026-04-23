@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eulerazevedo)
 [![Portfólio](https://img.shields.io/badge/Portfólio-4F98A3?style=for-the-badge&logo=vercel&logoColor=white)](https://euler-azevedo-portfolio.vercel.app)
 
-Engenheiro de Computação com 10+ anos de experiência em infraestrutura cloud, DevOps e arquitetura de soluções. Trabalhei com plataformas de streaming em alta escala, otimização de custos em AWS e implementação de boas práticas de infraestrutura. Paralelamente, atuo como professor universitário, onde combino profundidade técnica com a capacidade de ensinar e formar profissionais para o mercado de tecnologia.
+Engenheiro de Computação com 7+ anos de experiência em infraestrutura cloud, DevOps e arquitetura de soluções. Trabalhei com plataformas de streaming em alta escala, otimização de custos em AWS e implementação de boas práticas de infraestrutura. Paralelamente, atuo como professor universitário, onde combino profundidade técnica com a capacidade de ensinar e formar profissionais para o mercado de tecnologia.
 
 🌎 Baseado em Manaus/AM, Brasil — mas minhas arquiteturas rodam no mundo todo  
 ☁️ Especialista em AWS, Cloud Infrastructure, DevOps e automação  
