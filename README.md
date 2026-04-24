@@ -11,7 +11,7 @@ Engenheiro de Computação com 7+ anos de experiência em infraestrutura cloud, 
 ☁️ Especialista em AWS, Cloud Infrastructure, DevOps e automação  
 🤖 Explorando IA, LLMs e integração de inteligência artificial em workflows de engenharia  
 🚀 Criador do [Archimbus](https://archimbus-web.vercel.app) — assistente de arquitetura cloud com IA (Groq · Gemini)  
-🛡️ Criador do [SCANTHERA](https://github.com/eulerazevedo/scanthera-releases) — scanner de segurança de rede local com dashboard web
+🛡️ Criador do [SCANTHERA](https://github.com/eulerazevedo/scanthera-network) — scanner de segurança de rede local com dashboard web
 
 ---
 
@@ -39,7 +39,7 @@ Engenheiro de Computação com 7+ anos de experiência em infraestrutura cloud, 
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
         <img src="https://img.shields.io/badge/Scapy-4D9DE0?style=flat-square&logo=python&logoColor=white" />
       </p>
-      <a href="https://github.com/eulerazevedo/scanthera-releases/releases/latest">⬇️ Download</a> · <a href="https://github.com/eulerazevedo/scanthera-releases">📂 Repositório</a>
+      <a href="https://github.com/eulerazevedo/scanthera-network/releases/latest">⬇️ Download</a> · <a href="https://github.com/eulerazevedo/scanthera-network">📂 Repositório</a>
     </td>
   </tr>
 </table>
