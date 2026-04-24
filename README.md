@@ -10,7 +10,8 @@ Engenheiro de Computação com 7+ anos de experiência em infraestrutura cloud, 
 🌎 Baseado em Manaus/AM, Brasil — mas minhas arquiteturas rodam no mundo todo  
 ☁️ Especialista em AWS, Cloud Infrastructure, DevOps e automação  
 🤖 Explorando IA, LLMs e integração de inteligência artificial em workflows de engenharia  
-🚀 Criador do [Archimbus](https://archimbus-web.vercel.app) — assistente de arquitetura cloud com IA (Groq · Gemini) 
+🚀 Criador do [Archimbus](https://archimbus-web.vercel.app) — assistente de arquitetura cloud com IA (Groq · Gemini)  
+🛡️ Criador do [SCANTHERA](https://github.com/eulerazevedo/scanthera-releases) — scanner de segurança de rede local com dashboard web
 
 ---
 
@@ -28,6 +29,17 @@ Engenheiro de Computação com 7+ anos de experiência em infraestrutura cloud, 
         <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
       </p>
       <a href="https://archimbus-web.vercel.app">🔗 Demo ao vivo</a> · <a href="https://github.com/eulerazevedo/archimbus-web">📂 Repositório</a>
+    </td>
+    <td width="50%">
+      <h3>🛡️ SCANTHERA</h3>
+      <p>Scanner de segurança de rede local com dashboard web. Descobre dispositivos, analisa portas, detecta CVEs, mapeia topologia e captura pacotes em tempo real.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Scapy-4D9DE0?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <a href="https://github.com/eulerazevedo/scanthera-releases/releases/latest">⬇️ Download</a> · <a href="https://github.com/eulerazevedo/scanthera-releases">📂 Repositório</a>
     </td>
   </tr>
 </table>
