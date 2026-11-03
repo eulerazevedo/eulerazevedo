@@ -10,18 +10,16 @@
   <a href="https://calendar.app.google/GmzN7hcTqt4LAAKM8"><img src="https://img.shields.io/badge/Agendar_20_min-4F98A3?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Agendar 20 min" /></a>
 </p>
 
-## Sobre mí
+## Hola, soy Euler 👋
 
-Ingeniero DevSecOps y SRE, con más de 7 años en TI y casi 5 en producción crítica en AWS. Pasé por soporte, redes, infraestructura y streaming en vivo antes de llegar a la seguridad.
-
-Construyo productos que yo mismo pongo en línea y mantengo, del pipeline al incidente.
-
-**Hoy**
-
-- Analista Senior de Seguridad de la Información
-- Cofundador y CTO de **[Kabrath](https://www.kabrath.com)**
-- Fundador de **[Vexoris Shield](https://vexorisshield.com)** y **[Nexocar](https://nexocar.app.br)**
-- Profesor de Cloud Computing, Arquitectura de Software y Seguridad en **UniNorte**
+- 🔭 Actualmente trabajo en **[Kabrath](https://www.kabrath.com)** (cofundador y CTO), **[Vexoris Shield](https://vexorisshield.com)** y **[Nexocar](https://nexocar.app.br)**
+- 💼 Analista Senior de Seguridad de la Información, con más de 7 años en TI y casi 5 en producción crítica en AWS
+- 👨‍🏫 Profesor de Cloud Computing, Arquitectura de Software y Seguridad en UniNorte
+- 🌱 Estoy aprendiendo Procesamiento de Lenguaje Natural (MBA en la UFG)
+- 👯 Busco colaborar en proyectos de DevSecOps, SRE y streaming
+- 💬 Pregúntame sobre AWS, disaster recovery, seguridad en pipelines y streaming en vivo (HLS, SRT, SCTE-35)
+- 📫 Cómo contactarme: [euller.azevedo@gmail.com](mailto:euller.azevedo@gmail.com) o [LinkedIn](https://linkedin.com/in/eulerazevedo)
+- ⚡ Dato curioso: un libro que escribí de niño se convirtió en un juego móvil, [Hip Hops Station](https://hip-hops-station.eulerazevedo.eng.br)
 
 ## Productos
 
