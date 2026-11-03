@@ -18,7 +18,7 @@ Je construis des produits que je mets en ligne et exploite moi-même, du pipelin
 
 **Aujourd'hui**
 
-- Analyste Senior en Sécurité de l'Information chez **Positivo Tecnologia**
+- Analyste Senior en Sécurité de l'Information
 - Cofondateur et CTO de **[Kabrath](https://www.kabrath.com)**
 - Fondateur de **[Vexoris Shield](https://vexorisshield.com)** et **[Nexocar](https://nexocar.app.br)**
 - Professeur de Cloud Computing, Architecture Logicielle et Sécurité à **UniNorte**
@@ -63,13 +63,39 @@ Je construis des produits que je mets en ligne et exploite moi-même, du pipelin
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <a href="https://hip-hops-station.eulerazevedo.eng.br"><img src="./assets/hiphops-700.webp" alt="Hip Hops Station" width="100%" /></a>
       <h3><a href="https://hip-hops-station.eulerazevedo.eng.br">Hip Hops Station</a></h3>
       <img src="https://img.shields.io/badge/test_ferm%C3%A9_sur_Google_Play-7C6FCD?style=flat-square" alt="test fermé sur Google Play" /> <img src="https://img.shields.io/badge/Jeu_mobile_%C2%B7_Godot_4-161B22?style=flat-square" alt="Jeu mobile · Godot 4" />
       <p><b><i>Une histoire écrite dans l'enfance est devenue un jeu publié.</i></b></p>
       <p>Jeu d'association et de restauration basé sur mon livre <i>RPM Dos Hip Hops</i>. 2 saisons, 20 chapitres et 238 niveaux, avec scénario, art, musique et ingénierie maison.</p>
       <a href="https://hip-hops-station.eulerazevedo.eng.br/teste">Rejoindre le test fermé →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://archimbus.eulerazevedo.eng.br"><img src="./assets/archimbus-700.webp" alt="Archimbus" width="100%" /></a>
+      <h3><a href="https://archimbus.eulerazevedo.eng.br">Archimbus</a></h3>
+      <img src="https://img.shields.io/badge/en_ligne-3FB950?style=flat-square" alt="en ligne" /> <img src="https://img.shields.io/badge/IA_%C2%B7_Architecture_cloud-161B22?style=flat-square" alt="IA · Architecture cloud" />
+      <p><b><i>D'un prompt à une architecture cloud.</i></b></p>
+      <p>Génère l'architecture, le Terraform, un document .docx et le diagramme à partir d'une simple description. Fonctionne avec Groq (Llama 3.3 70B) et Gemini.</p>
+      <a href="https://archimbus.eulerazevedo.eng.br">archimbus.eulerazevedo.eng.br →</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://sentinelvigilark.vexorisshield.com"><img src="./assets/sentinel-700.webp" alt="Sentinel Vigilark" width="100%" /></a>
+      <h3><a href="https://sentinelvigilark.vexorisshield.com">Sentinel Vigilark</a></h3>
+      <img src="https://img.shields.io/badge/sur_demande-7C6FCD?style=flat-square" alt="sur demande" /> <img src="https://img.shields.io/badge/S%C3%A9curit%C3%A9_on--prem-161B22?style=flat-square" alt="Sécurité on-prem" />
+      <p><b><i>Pour les réseaux qui ne peuvent pas envoyer de données.</i></b></p>
+      <p>Version on-prem de Vexoris Shield, avec environ 115 contrôles CIS, NIST, ISO et PCI et 22 modules de pentest autorisés.</p>
+      <a href="https://sentinelvigilark.vexorisshield.com">sentinelvigilark.vexorisshield.com →</a>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://academy.vexorisshield.com"><img src="./assets/academy-700.webp" alt="Vexoris Academy" width="100%" /></a>
+      <h3><a href="https://academy.vexorisshield.com">Vexoris Academy</a></h3>
+      <img src="https://img.shields.io/badge/gratuit-3FB950?style=flat-square" alt="gratuit" /> <img src="https://img.shields.io/badge/Cours_gratuits-161B22?style=flat-square" alt="Cours gratuits" />
+      <p><b><i>Les bases avant la spécialisation.</i></b></p>
+      <p>Cours gratuits de Linux, Cloud et Cybersécurité, avec environ 26 leçons vidéo.</p>
+      <a href="https://academy.vexorisshield.com">academy.vexorisshield.com →</a>
     </td>
   </tr>
 </table>
@@ -80,10 +106,7 @@ Je construis des produits que je mets en ligne et exploite moi-même, du pipelin
 
 | Projet | Ce que c'est |
 | :-- | :-- |
-| [**Archimbus**](https://archimbus.eulerazevedo.eng.br) | IA qui transforme un prompt en architecture cloud, Terraform, .docx et diagramme |
 | [**GradeOMR**](https://prova-omr.vercel.app) | Correction d'examens par lecture optique avec la caméra du téléphone, utilisée à UniNorte |
-| [**Sentinel Vigilark**](https://sentinelvigilark.vexorisshield.com) | Version on-prem de Vexoris Shield avec contrôles CIS, NIST, ISO et PCI |
-| [**Vexoris Academy**](https://academy.vexorisshield.com) | Cours gratuits de Linux, Cloud et Cybersécurité |
 | **Arcaro Care** | Recherche : wearable et app d'alertes pour personnes neurodivergentes |
 | **MediaStr** | Plateforme VOD et direct d'UniNorte avec HLS adaptatif |
 | [**Manual de Computação**](https://youtube.com/@manualdecomputacao) | Chaîne YouTube sur l'infrastructure, les réseaux, le cloud et les carrières IT |
@@ -154,27 +177,6 @@ flowchart LR
       <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square" alt="Groq" />
       <img src="https://img.shields.io/badge/Godot_4-478CBF?style=flat-square&logo=godotengine&logoColor=white" alt="Godot 4" />
     </td>
-  </tr>
-</table>
-
-## Parcours
-
-<table>
-  <tr>
-    <td><code>2026 · auj.</code></td>
-    <td><b>Analyste Senior en Sécurité de l'Information</b><br /><sub>Positivo Tecnologia</sub></td>
-  </tr>
-  <tr>
-    <td><code>2022 · 2026</code></td>
-    <td><b>De Junior à Consultant Cloud Architecture, streaming sur AWS</b><br /><sub>Watch Brasil</sub></td>
-  </tr>
-  <tr>
-    <td><code>2020 · 2022</code></td>
-    <td><b>Analyste Infrastructure Réseau</b><br /><sub>Grupo Queiroz</sub></td>
-  </tr>
-  <tr>
-    <td><code>2019 · 2020</code></td>
-    <td><b>Stagiaire IT</b><br /><sub>Ministère Public et Secrétariat à la Sécurité de l'Amazonas</sub></td>
   </tr>
 </table>
 
