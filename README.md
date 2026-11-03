@@ -10,7 +10,7 @@
   <a href="https://www.eulerazevedo.eng.br"><img src="https://img.shields.io/badge/eulerazevedo.eng.br-0D1117?style=for-the-badge&logo=googlechrome&logoColor=6FC3CE" alt="Site" /></a>
   <a href="https://linkedin.com/in/eulerazevedo"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=6FC3CE" alt="LinkedIn" /></a>
   <a href="https://youtube.com/@manualdecomputacao"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=6FC3CE" alt="YouTube" /></a>
-  <a href="mailto:euler.azevedo@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=6FC3CE" alt="E-mail" /></a>
+  <a href="mailto:euller.azevedo@gmail.com"><img src="https://img.shields.io/badge/E--mail-0D1117?style=for-the-badge&logo=gmail&logoColor=6FC3CE" alt="E-mail" /></a>
   <a href="https://calendar.app.google/GmzN7hcTqt4LAAKM8"><img src="https://img.shields.io/badge/Agendar_20_min-4F98A3?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Agendar 20 min" /></a>
 </p>
 
